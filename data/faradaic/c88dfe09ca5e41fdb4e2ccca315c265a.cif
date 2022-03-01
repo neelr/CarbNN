@@ -1,0 +1,223 @@
+#------------------------------------------------------------------------------
+#$Date: 2017-01-30 14:55:43 +0100 (Mon 30 de Jan de 2017) $
+#$Revision: 191094 $
+#$URL: svn://www.crystallography.net/cod/cif/2/00/42/2004280.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided by IUCr Journals, http://journals.iucr.org/.
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_2004280
+loop_
+_publ_author_name
+'Smith, G.'
+'Lynch, D. E.'
+'Byriel, K. A.'
+'Kennard, C. H. L.'
+_publ_section_title
+;
+ Molecular Co-Crystals of Carboxylic Acids. 22. The Adducts of
+ Pyrazine-2,3-dicarboxylic Acid with 2-Aminobenzoic Acid (1:2) and
+ 3-Aminobenzoic Acid (1:1 Dihydrate)
+;
+_journal_issue                   12
+_journal_name_full               'Acta Crystallographica Section C'
+_journal_page_first              2629
+_journal_page_last               2633
+_journal_paper_doi               10.1107/S0108270195008092
+_journal_volume                  51
+_journal_year                    1995
+_chemical_formula_sum            'C13 H15 N3 O8'
+_chemical_formula_weight         341.3
+_space_group_IT_number           2
+_symmetry_cell_setting           triclinic
+_symmetry_space_group_name_Hall  '-P 1'
+_symmetry_space_group_name_H-M   'P -1'
+_atom_type_scat_source           IntTabIV
+_cell_angle_alpha                91.830(1)
+_cell_angle_beta                 91.460(1)
+_cell_angle_gamma                100.350(2)
+_cell_formula_units_Z            2
+_cell_length_a                   7.892(1)
+_cell_length_b                   9.490(2)
+_cell_length_c                   10.115(2)
+_cell_measurement_reflns_used    25
+_cell_measurement_temperature    298(2)
+_cell_measurement_theta_max      14
+_cell_measurement_theta_min      6
+_cell_volume                     744.5(2)
+_computing_cell_refinement       MolEN
+_computing_data_collection       'MolEN (Fair, 1990)'
+_computing_data_reduction        'Xtal3.2 (Hall, Flack & Stewart, 1992)'
+_computing_molecular_graphics    'PLATON92 (Spek, 1990)'
+_computing_structure_refinement  'SHELXL93 (Sheldrick, 1993)'
+_computing_structure_solution    'SHELXS86 (Sheldrick, 1985)'
+_diffrn_measurement_device       'Enraf-Nonius CAD-4'
+_diffrn_measurement_method       '\w/2\q scans'
+_diffrn_radiation_type           MoK\a
+_diffrn_radiation_wavelength     0.71073
+_diffrn_reflns_av_R_equivalents  0.027
+_diffrn_reflns_limit_h_max       11
+_diffrn_reflns_limit_h_min       0
+_diffrn_reflns_limit_k_max       13
+_diffrn_reflns_limit_k_min       -13
+_diffrn_reflns_limit_l_max       14
+_diffrn_reflns_limit_l_min       -14
+_diffrn_reflns_number            4617
+_diffrn_reflns_theta_max         30
+_diffrn_standards_decay_%        -2.6
+_diffrn_standards_interval_count 250
+_diffrn_standards_number         3
+_exptl_absorpt_coefficient_mu    0.128
+_exptl_absorpt_correction_type   none
+_exptl_crystal_colour            'pale brown'
+_exptl_crystal_density_diffrn    1.522
+_exptl_crystal_description       prismatic
+_exptl_crystal_size_max          0.35
+_exptl_crystal_size_mid          0.24
+_exptl_crystal_size_min          0.12
+_refine_diff_density_max         0.27
+_refine_diff_density_min         -0.21
+_refine_ls_extinction_method     none
+_refine_ls_goodness_of_fit_obs   1.00
+_refine_ls_hydrogen_treatment    refall
+_refine_ls_number_parameters     278
+_refine_ls_number_reflns         2193
+_refine_ls_R_factor_obs          0.046
+_refine_ls_shift/esd_max         0.1
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_scheme
+;                    1/[\s^2^(F~0~)^2^+(0.082P)^2^+0.04P] where
+P = [max(F~o~^2^,0)+2(F~o~)^2^]/3
+;
+_refine_ls_wR_factor_obs         0.119
+_reflns_number_observed          2193
+_reflns_number_total             4325
+_reflns_observed_criterion       I>2\s(I)
+_cod_data_source_file            kh1032.cif
+_cod_data_source_block           2
+_cod_depositor_comments
+;
+ Adding the _atom_site_type_symbol data item.
+
+ Antanas Vaitkus,
+ 2017-01-30
+;
+_cod_database_code               2004280
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,-y,-z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+N(1A) N .8367(2) .2951(2) .1053(2) .041(1)
+C(2A) C .7099(2) .3685(2) .1300(2) .035(1)
+C(3A) C .7497(2) .5120(2) .1762(2) .034(1)
+N(4A) N .9150(2) .5761(2) .1981(2) .043(1)
+C(5A) C 1.0372(3) .5004(2) .1744(2) .045(1)
+C(6A) C .9985(3) .3600(2) .1268(2) .044(1)
+C(21A) C .5321(3) .2758(2) .1008(2) .051(1)
+O(20A) O .3981(2) .3316(2) .1070(2) .062(1)
+O(21A) O .5258(3) .1512(2) .0706(3) .108(1)
+C(31A) C .6267(3) .6144(2) .2100(2) .044(1)
+O(30A) O .6866(2) .7353(2) .2522(2) .062(1)
+O(31A) O .4650(2) .5708(2) .1955(2) .068(1)
+C(1B) C .1412(2) .2520(2) .4240(2) .035(1)
+C(2B) C .1530(3) .1295(2) .3481(2) .036(1)
+C(3B) C .0036(2) .0338(2) .3145(2) .035(1)
+N(3B) N .0135(3) -.0907(2) .2275(2) .042(1)
+C(4B) C -.1549(3) .0553(2) .3562(2) .041(1)
+C(5B) C -.1649(3) .1765(2) .4338(2) .045(1)
+C(6B) C -.0171(3) .2753(2) .4669(2) .041(1)
+O(10B) O .2840(2) .4812(1) .5022(2) .050(1)
+O(11B) O .4443(2) .3223(2) .4372(2) .054(1)
+C(11B) C .2992(3) .3597(2) .4575(2) .038(1)
+OW1 O .1904(2) .0097(2) .9851(2) .050(1)
+OW2 O .3627(3) .8709(3) .2380(3) .082(1)
+H(5A) H 1.1562(34) .5504(27) .1896(24) .058(7)
+H(6A) H 1.0878(33) .3050(26) .1051(23) .055(7)
+H(31A) H .4365(42) .4641(39) .1514(32) .098(11)
+H(2B) H .2634(28) .1120(22) .3193(20) .037(5)
+H(31B) H -.0737(33) -.1741(27) .2459(23) .056(7)
+H(32B) H .1210(42) -.1147(30) .2298(28) .076(9)
+H(33B) H -.0136(45) -.0664(36) .1387(36) .104(11)
+H(4B) H -.2522(33) -.0190(27) .3360(23) .054(7)
+H(5B) H -.2730(32) .1894(24) .4659(22) .049(6)
+H(6B) H -.0246(29) .3505(24) .5175(22) .042(6)
+H(11B) H .5492(57) .4044(45) .4629(40) .144(16)
+HW11 H .2933(44) .0599(34) 1.0053(30) .078(9)
+HW12 H .2212(49) -.0639(42) .9588(36) .103(13)
+HW21 H .4212(61) .8076(50) .2636(45) .144(19)
+HW22 H .4109(76) .9036(62) .1738(59) .179(27)
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_publ_flag
+C(6A) N(1A) C(2A) 118.8(2) yes
+N(1A) C(2A) C(3A) 120.1(2) yes
+N(1A) C(2A) C(21A) 111.4(2) yes
+C(3A) C(2A) C(21A) 128.5(2) yes
+N(4A) C(3A) C(2A) 120.2(2) yes
+N(4A) C(3A) C(31A) 111.1(2) yes
+C(2A) C(3A) C(31A) 128.7(2) yes
+C(5A) N(4A) C(3A) 118.2(2) yes
+N(4A) C(5A) C(6A) 121.6(2) yes
+N(1A) C(6A) C(5A) 120.9(2) yes
+O(21A) C(21A) O(20A) 122.2(2) yes
+O(21A) C(21A) C(2A) 117.9(2) yes
+O(20A) C(21A) C(2A) 119.9(2) yes
+O(30A) C(31A) O(31A) 121.7(2) yes
+O(30A) C(31A) C(3A) 118.9(2) yes
+O(31A) C(31A) C(3A) 119.4(2) yes
+C(6B) C(1B) C(2B) 120.4(2) yes
+C(6B) C(1B) C(11B) 119.9(2) yes
+C(2B) C(1B) C(11B) 119.7(2) yes
+C(3B) C(2B) C(1B) 118.5(2) yes
+C(4B) C(3B) C(2B) 121.9(2) yes
+C(4B) C(3B) N(3B) 119.2(2) yes
+C(2B) C(3B) N(3B) 118.9(2) yes
+C(3B) C(4B) C(5B) 119.2(2) yes
+C(6B) C(5B) C(4B) 120.1(2) yes
+C(1B) C(6B) C(5B) 120.0(2) yes
+O(10B) C(11B) O(11B) 123.6(2) yes
+O(10B) C(11B) C(1B) 119.1(2) yes
+O(11B) C(11B) C(1B) 117.3(2) yes
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_publ_flag
+N(1A) C(6A) 1.323(3) yes
+N(1A) C(2A) 1.342(2) yes
+C(2A) C(3A) 1.403(3) yes
+C(2A) C(21A) 1.533(3) yes
+C(3A) N(4A) 1.347(2) yes
+C(3A) C(31A) 1.529(3) yes
+N(4A) C(5A) 1.323(3) yes
+C(5A) C(6A) 1.381(3) yes
+C(21A) O(21A) 1.204(3) yes
+C(21A) O(20A) 1.267(3) yes
+C(31A) O(30A) 1.219(3) yes
+C(31A) O(31A) 1.272(3) yes
+C(1B) C(6B) 1.385(3) yes
+C(1B) C(2B) 1.392(3) yes
+C(1B) C(11B) 1.487(3) yes
+C(2B) C(3B) 1.380(3) yes
+C(3B) C(4B) 1.377(3) yes
+C(3B) N(3B) 1.466(2) yes
+C(4B) C(5B) 1.387(3) yes
+C(5B) C(6B) 1.385(3) yes
+O(10B) C(11B) 1.252(2) yes
+O(11B) C(11B) 1.277(2) yes
